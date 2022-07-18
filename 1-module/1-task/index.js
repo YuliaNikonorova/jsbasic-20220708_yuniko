@@ -6,7 +6,3 @@ function factorial(n){
     return x;
  }
 
-alert(factorial(0));
-alert(factorial(1));
-alert(factorial(3));
-alert(factorial(5));
